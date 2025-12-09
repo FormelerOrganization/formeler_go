@@ -3,7 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"formeler"
+
+	"github.com/FormelerOrganization/formeler_go"
 )
 
 type ResultResponse struct {

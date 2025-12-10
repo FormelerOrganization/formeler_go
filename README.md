@@ -3,6 +3,14 @@
 Formeler SDK is a cloud language detection api SDK, It's design to make get started quick and easy with the ability to
 scale up to complex applications.
 
+## Installation
+
+simply import `formeler` in your code and Go will automatically fetch it during build:
+
+```go
+import "github.com/FormelerOrganization/formeler_go"
+```
+
 ## An Example
 
 ```go
